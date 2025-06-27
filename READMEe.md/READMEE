@@ -1,0 +1,56 @@
+<h1>📝 Blogging Platform </h1>
+ A lightweight and intuitive blogging platform built using **HTML, CSS, and Vanilla JavaScript**. This project allows users to **create, view, edit, and delete blog posts** directly in the browser using **LocalStorage** — no backend required.
+---
+### 🚀 Features
+
+- 🆕 Create new blog posts with title, content, and tags  
+- ✏️ Edit existing blog posts with pre-filled form fields  
+- 🗑️ Delete posts instantly with confirmation  
+- 🧠 Uses `localStorage` to persist blog data across sessions  
+- 🖼️ Clean and responsive UI using custom **CSS styling**  
+- 🧩 Dynamic rendering of posts with JavaScript DOM manipulation
+
+---
+
+### 📁 Project Structure
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript (ES6)
+- **Data Storage**: Browser `localStorage`
+- **UI Styling**: Custom CSS (Responsive & modern)
+
+---
+
+### 🧠 How It Works
+
+1. **Create Post**: Add a new post via `create.html`, which stores data in `localStorage`.
+2. **View Posts**: Posts appear dynamically on `index.html` with edit/delete options.
+3. **Edit Post**: Clicking "Edit" redirects to `edit.html` with pre-filled data via URL params.
+4. **Delete Post**: Clicking "Delete" removes the post and updates the list in real-time.
+
+---
+
+### 📷 Preview
+
+> Coming Soon: Add screenshots or demo GIFs here.
+
+---
+
+### 📌 Note
+
+This is a **fully client-side project** – ideal for beginners exploring DOM, form handling, and state management in JS.
+
+---
+
+### 📬 Contact
+
+Feel free to reach out or connect:
+
+- 📧 [sankalpmisal007@gmail.com](mailto:sankalpmisal007@gmail.com)  
+- 🌐 [Portfolio](https://sankalp6-portfolio.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sankalp-misal6/)
+
+---
+
