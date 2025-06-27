@@ -1,4 +1,4 @@
-<h1>📝 Blogging Platform </h1>
+📝 Blogging Platform 
  A lightweight and intuitive blogging platform built using **HTML, CSS, and Vanilla JavaScript**. This project allows users to **create, view, edit, and delete blog posts** directly in the browser using **LocalStorage** — no backend required.
 ---
 ### 🚀 Features
